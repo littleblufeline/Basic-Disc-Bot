@@ -164,7 +164,7 @@ client.on('message', msg => {
  *                                  ^^^^^^^^^^  ^^^^^^^^^^^^ 
  *                                  Webhook ID  Webhook Token
  */
-const hook = new Discord.WebhookClient('848253936666411038', '7YIzhhByd_yMom9s1j9txeuGEMqjsZVCAMhYnT5Ueb990gW3bwYR_1oJuEwbYA5Eq1L');
+const hook = new Discord.WebhookClient('12345678910', 'T0kEn0fw3Bh00K');
 
 // Send a message using the webhook
 hook.send('I am now alive!');
