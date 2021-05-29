@@ -1,0 +1,16 @@
+{
+  "name": "Basic-Disc-Bot",
+  "version": "1.0.0",
+  "description": "My first Discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "littlebluefeline",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0"
+  }
+}
